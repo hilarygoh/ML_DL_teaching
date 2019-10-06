@@ -1,0 +1,9 @@
+name: ML_DL_teaching-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - pandas_profiling
+  
