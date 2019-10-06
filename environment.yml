@@ -5,6 +5,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - pandas_profiling
-  - sklearn
+  - pandas-profiling
+  - scikit-learn
   
