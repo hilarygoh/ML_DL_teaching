@@ -6,4 +6,5 @@ dependencies:
   - matplotlib
   - pandas
   - pandas_profiling
+  - sklearn
   
