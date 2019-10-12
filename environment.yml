@@ -8,4 +8,6 @@ dependencies:
   - pandas
   - pandas-profiling
   - scikit-learn
+  - seaborn
+
   
